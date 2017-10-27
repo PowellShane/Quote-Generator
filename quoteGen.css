@@ -1,0 +1,35 @@
+body{
+  background-color:black;
+}
+h1{
+  color:white;
+}
+p{
+  color:white;
+  font-family:"times new roman";
+  font-style:italic;
+   font-size:20px; 
+}
+.main{
+  background-color:grey;
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:white;
+    
+}
+
+.quotes{
+  font-size:30px;
+}
+
+.author1{
+  font-size:20px;
+  font-style:italic;
+}
